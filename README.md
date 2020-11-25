@@ -9,7 +9,7 @@
     <li>message ติดต่อกันระหว่างลูกค้ากับร้านค้านั้นๆ (Chat Service)</li>
 </ul>
 
-<h5>How to run this project.</h5>
+<h3>How to run this project.</h3>
 <ol>
     <li>run project back-end => <a href="https://github.com/looksocii/SOP_API">Code</a></li>
     <ul>
@@ -38,11 +38,17 @@
 ## Service Diagram
 
 <img src="./img/service_diagram.png">
+<h4>Service ทั้งหมดบน CRM Module มีดังนี้</h4>
+    <ul>
+        <li>Review Service</li>
+        <li>Question Service</li>
+        <li>Chat Service</li>
+    </ul>
 
 ## CRM Database (Logical Design)
 
 <img src="./img/CRM-Module.png">
-<h5>Module อื่นๆที่เกี่ยวข้อง</h5>
+<h4>Module อื่นๆที่เกี่ยวข้อง</h4>
     <ul>
         <li>User</li>
         <li>Shop</li>
@@ -74,6 +80,7 @@
         <li>จัดการเกี่ยวกับการสร้าง API</li>
         <li>จัดการเกี่ยวกับ Database</li>
         <li>จัดการเกี่ยวกับการดึงข้อมูลและฟีเจอร์ต่างๆ บางส่วน</li>
+        <li>ทำ Service Diagram</li>
     </ul>
     <li>นายสิรภพ รักเกื้อ (61070241)</li>
     <ul>
