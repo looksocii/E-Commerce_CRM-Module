@@ -24,7 +24,7 @@
 ## CRM Database (Logical Design)
 
 <img src="./img/CRM-Module.png">
-<li>Module อื่นๆที่เกี่ยวข้อง</li>
+<h5>Module อื่นๆที่เกี่ยวข้อง</h5>
     <ul>
         <li>User</li>
         <li>Shop</li>
