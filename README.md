@@ -1,5 +1,8 @@
 # CRM Module
 
+<img src="./img/review.jpg">
+<img src="./img/chat.jpg">
+<img src="./img/Q&A.jpg">
 <img src="./img/allService.jpg">
 <img src="./img/unavil.jpg">
 <p>โปรเจคนี้เป็นส่วนหนึ่งของรายวิชา Service-Oriented Programming เป็นการพัฒนาระบบย่อยของ E-Commerce ซึ่งก็คือระบบ CRM Module จะใช้โปรเจค React ในการพัฒนาระบบ CRM Module เป็นส่วนที่จัดการเกี่ยวกับการรักษาความสัมพันธ์กับลูกค้า (เพื่อให้การติดต่อกันระหว่างร้านค้ากับลูกค้าได้สะดวกมากยิ่งขึ้น) โดยจะมี Service ย่อยๆ ดังนี้</p>
