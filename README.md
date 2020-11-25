@@ -23,7 +23,7 @@
     </ul>
 </ol>
 
-# Cloud Functions for Firebase (Back-End)
+## Cloud Functions for Firebase (Back-End)
 
 <img src="./img/FB.jpg">
 <p>ในการสร้าง API เพื่อให้ฝั่ง Front-End ดึง API ไปใช้งาน ก็จะใช้ Cloud Functions for Firebase หรือเป็นโปรเจค Node JS ที่สนับสนุนการจัดการข้อมูลใน Firebase โดยตรง</p>
@@ -34,6 +34,10 @@
 ## Swagger CRM Module API
 
 <li>Read : https://app.swaggerhub.com/apis/SirapopJayz/CRM_API/1.0.0</li>
+
+## Service Diagram
+
+<img src="./img/service_diagram.png">
 
 ## CRM Database (Logical Design)
 
