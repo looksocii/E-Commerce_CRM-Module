@@ -9,6 +9,12 @@
     <li>message ติดต่อกันระหว่างลูกค้ากับร้านค้านั้นๆ (Chat Service)</li>
 </ul>
 
+<h5>How to Run React Project.</h5>
+    <ul>
+        <li>npm install</li>
+        <li>npm start</li>
+    </ul>
+
 # Cloud Functions for Firebase (Back-End)
 
 <img src="./img/FB.jpg">
