@@ -75,6 +75,7 @@
     </ul>
     <li>นายสิรภพ รักเกื้อ (61070241)</li>
     <ul>
-        <li>...</li>
+        <li>ทำ swagger crm service​ api</li>
+        <li>จัดการเกี่ยวกับหน้า Frontend</li>
     </ul>
 </ol>
