@@ -76,6 +76,7 @@
     <li>นายสิรภพ รักเกื้อ (61070241)</li>
     <ul>
         <li>ทำ swagger crm service​ api</li>
-        <li>จัดการเกี่ยวกับหน้า Frontend</li>
+        <li>จัดการเกี่ยวกับหน้า Frontend ลง​ React</li>
+        <li>ช่วยจัดการเกี่ยวกับ​ Database​ บางส่วน<li>
     </ul>
 </ol>
