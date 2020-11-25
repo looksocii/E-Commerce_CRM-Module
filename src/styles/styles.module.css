@@ -1,0 +1,123 @@
+.container1 {
+  border: 2px solid #dedede;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  padding: 10px;
+  max-height: 30%;
+  margin: 10px 0;
+}
+
+.darker {
+  border: 3px solid  #F47920;
+  background-color: #F47920;
+  border-radius: 5px;
+  padding: 10px;
+  max-height: 30%;
+  margin: 10px 0;
+}
+.border1{
+  border: 1px solid grey;
+  max-width: 100%;
+  padding:20px;
+}
+.textcenter{
+  margin-top: 10;
+  text-align: center;
+  font-size: large;
+}
+.textleft{
+  margin-top: 10;
+  text-align: left;
+  font-size: 30px;
+  font-weight: bold;
+}
+.border2 {
+  background-color: white;
+  border: 2px solid #e0e0e0;
+  padding: 10px;
+  margin: 5px 0;
+  max-width: 100%;
+  border-radius: 30px;
+}  
+.container2 {
+  background-color: white;
+  border-bottom: 2px solid  #f1f1f1;
+  padding: 10px;
+  margin: 5px 0;
+  max-height: 30%;
+}  
+.containerchat {
+  background-color: #f1f1f1;
+  padding: 10px;
+  margin: 5px 0;
+  max-height: 30%;
+}        
+.chatbox{
+  height: 20%;
+  width: 100%;
+  padding: 10px;
+  color: rgb(36, 36, 36);
+  border: 2px solid  #e3e3e3;
+  background-color:white;
+  border-radius: 5px;
+}
+
+.sendbutton{
+  height: 20%;
+  width: 100%;
+  padding: 10px;
+  color: rgb(36, 36, 36);
+  border: 2px solid  #e3e3e3;
+  background-color:white;
+  border-radius: 5px;
+}
+
+.container1::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.container1 img {
+  float: left;
+  max-width: 60px;
+  width: 100%;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.container1 img.right {
+  float: right;
+  margin-left: 20px;
+  margin-right:0;
+}
+
+.darker::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.darker img {
+  float: left;
+  max-width: 60px;
+  width: 100%;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.darker img.right {
+  float: right;
+  margin-left: 20px;
+  margin-right:0;
+}
+
+.time_right {
+  float: right;
+  color: #aaa;
+}
+
+.time_left {
+  float: left;
+  color: white;
+}
