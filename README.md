@@ -1,4 +1,4 @@
-# CRM Module (Front-End)
+# CRM Module
 
 <img src="./img/allService.jpg">
 <img src="./img/unavil.jpg">
@@ -9,11 +9,19 @@
     <li>message ติดต่อกันระหว่างลูกค้ากับร้านค้านั้นๆ (Chat Service)</li>
 </ul>
 
-<h5>How to Run React Project.</h5>
+<h5>How to run this project.</h5>
+<ol>
+    <li>run project back-end => <a href="https://github.com/looksocii/SOP_API">Code</a></li>
     <ul>
         <li>npm install</li>
-        <li>npm start</li>
+        <li>npm run serve</li>
     </ul>
+    <li>run project front-end => <a href="https://github.com/looksocii/E-Commerce_CRM-Module">Code</a></li>
+    <ul>
+        <li>npm install</li>
+        <li>npm run serve</li>
+    </ul>
+</ol>
 
 # Cloud Functions for Firebase (Back-End)
 
